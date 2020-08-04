@@ -1,4 +1,4 @@
 ## Sticks game
 
-GUI game based of minimax angorithm. Using python and pygame
+GUI game based on minimax angorithm. Using Python and pygame.
 
